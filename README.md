@@ -1,4 +1,6 @@
-Androider
+Linux Adnroid Device manager
 =========
 
-a Open Source manager of android device.
+GTK+
+C/C++
+Glade
